@@ -1,1 +1,2 @@
-# JMI_IndTest
+# JMI-based conditional independence test
+
