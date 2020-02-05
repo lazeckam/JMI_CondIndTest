@@ -4,7 +4,6 @@
 
 ## R files
 
-- JMI_TestFunction
-  R code for testing $X \perp Y | X_S$ hypothesis (the main function is in *jmi_test.R* file).
+- JMI_TestFunction:  R code for testing conditional independence of X and Y given Z (the main function is in *jmi_test.R* file).
   
 - NumericalExperiments
